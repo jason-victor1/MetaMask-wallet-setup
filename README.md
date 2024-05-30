@@ -1,6 +1,6 @@
 # Using Sepolia Testnet with MetaMask
 
-This repository documents my process of setting up a MetaMask wallet for the Sepolia testnet. This included completing my first transaction and showcasing a screenshot of the transaction. Below is the step by step process.
+This repository documents my process of setting up a MetaMask wallet for the Sepolia testnet. This includes completing my first transaction and showcasing a screenshot of the transaction. Below is the step by step process.
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ After setting up your MetaMask wallet and obtaining Sepolia test Ether, you have
 
 Below is a screenshot of my first transaction on the Sepolia Testnet using MetaMask:
 
-![Screenshot of First Transaction]([https://github.com/your-username/your-repo-name/blob/main/path/to/your/screenshot.png](https://github.com/jason-victor1/Sepolia-Testnet/commit/2626c11555604bd3aaba8a9150c9c7234a42bc7e)
+![Screenshot of First Transaction](https://raw.githubusercontent.com/jason-victor1/Sepolia-Testnet/2626c11555604bd3aaba8a9150c9c7234a42bc7e/My%20first%20transaction.png)
 
 
 Congratulations! You have successfully completed your first transaction on the Sepolia Testnet using MetaMask.
