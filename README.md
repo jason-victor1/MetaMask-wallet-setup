@@ -23,7 +23,7 @@ I learned that Sepolia is one of the Ethereum testnets used for testing smart co
 
 ### Install MetaMask
 
-1. I installed the MetaMask extension from the [official website](https://metamask.io/) on my browser.
+1. I installed the MetaMask extension from the [official website](https://metamask.io/) on my Brave browser.
 
 ### Create a New Wallet
 
