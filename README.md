@@ -48,12 +48,12 @@ I successfully received Sepolia test ETH! Here's what I did:
 
 1. Visited the [Sepolia GCP Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia).
 2. Entered my MetaMask wallet address in the input field.
-3. Requested test ETH, and the transaction was completed successfully.
+3. Requested test ETH and the transaction was successfully completed.
 
 The test ETH is now available in my MetaMask wallet for testing and development purposes.
 
 Please see the below screenshot:
-![Screenshot of First Transaction](https://raw.githubusercontent.com/jason-victor1/Sepolia-Testnet/2626c11555604bd3aaba8a9150c9c7234a42bc7e/My%20first%20transaction.png)
+![Screenshot of First Transaction](https://github.com/jason-victor1/MetaMask-wallet-setup/blob/main/Sepolia%20GCP%20ETH.png?raw=true)
 
 
 ## Completing My First Transaction
