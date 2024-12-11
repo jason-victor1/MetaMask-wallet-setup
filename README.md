@@ -72,7 +72,7 @@ After setting up my MetaMask wallet and obtaining Sepolia test Ether, I complete
 
 Below is a screenshot of my first transaction on the Sepolia Testnet using MetaMask:
 
-![Screenshot of First Transaction](https://raw.githubusercontent.com/jason-victor1/Sepolia-Testnet/2626c11555604bd3aaba8a9150c9c7234a42bc7e/My%20first%20transaction.png)
+![Screenshot of First Transaction](https://github.com/jason-victor1/MetaMask-wallet-setup/blob/main/My%20first%20transaction%20updated.png?raw=true)
 
 
 Yes! I have successfully completed my first transaction on the Sepolia Testnet using MetaMask.
