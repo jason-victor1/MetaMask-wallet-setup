@@ -1,4 +1,4 @@
-# MetaMask Wallet Setup for the Sepolia Testnet  
+# MetaMask Wallet Setup and My First Transaction  
 
 This repository documents my process of setting up a MetaMask wallet for the Sepolia testnet. This includes completing my first transaction and showcasing a screenshot of the transaction. Below is the step by step process.
 
